@@ -1,0 +1,53 @@
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.05062137 -0.20555343 -0.27458256 -0.08897088 -0.01227185  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.44485444  0.04295146  0.09203885 -1.74413621  0.41110685  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.45252433  0.11811652 -0.39269909 -1.08912635  0.41110685  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.45252433  0.11811652 -0.39269909 -1.0937283   0.41110685  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.05982525 -0.18254372  0.42951465 -2.04326248  0.03067962  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.27013612 -0.00460194 -0.01227185 -1.50943708  0.14112623  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.22565067  0.1441942  -0.36048549 -1.06304872  0.2086214   1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.23025262  0.14572819 -0.36355346 -1.05231082  0.20708741  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.23792255 -0.00306796  0.27765054 -1.79629159  0.20555343  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.398835    0.03067962  0.07669904 -1.63675749 -0.41417482  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.38042724  0.11504856 -0.40497094 -1.08605838 -0.42184472  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.38042724  0.11504856 -0.40957287 -1.08912635 -0.42184472  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.38656318 -0.03834952  0.18100974 -1.78095174 -0.42184472  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.46019426 -0.05368933 -0.12271847 -1.45728183  0.41417482  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.45405832  0.12425245 -0.40497094 -1.07071865  0.41417482  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.45712629  0.12425245 -0.40650493 -1.07378662  0.41417482  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.01840777 -0.08130098  0.37889326 -1.9420197   0.0076699   0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.25479627 -0.09510681 -0.06596117 -1.52017498  0.17487381  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.22565067  0.18100974 -0.32213598 -1.08605838  0.20708741  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.22411668  0.18100974 -0.32366997 -1.08605838  0.20708741  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-1.20570898  0.08897088  0.40497094 -1.84537899  0.20248547  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.38656318  0.01073787 -0.03067962 -1.58767021 -0.44792241  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.37735927  0.14266022 -0.398835   -1.1044662  -0.44792241  1.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.37735927  0.13805827 -0.398835   -1.10753417 -0.44792241  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[-0.39269909  0.          0.30219424 -1.83003914 -0.44792241  0.        ]
+<bound method RXArm.get_positions of <rxarm.RXArm object at 0x7f3ddfcf0c10>>
+[ 0.01227185 -0.13499032 -0.23469907 -0.15646605  0.02761165  0.        ]
+
